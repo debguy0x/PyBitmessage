@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#  this bash script  shall create the debian  package named "pybitmessage.deb"
+
+
 APP=pybitmessage
 PREV_VERSION=0.4.4
 VERSION=0.6.0
