@@ -1,1 +1,1 @@
-This fork is about maintaining the pybitmessage.deb debian Linux distro package.
+This fork is about maintaining the debian Linux distro package (filename like "pybitmessage.deb").
